@@ -29,13 +29,13 @@
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/umashankar-kumar-134a88269/" target="_blank">
+  <a href="www.linkedin.com/in/avinash-patel-4487b5252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Umashankar9572/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="mailto:umashankarkumar9572@gmail.com" target="_blank">
+  <a href="mailto:avinashpatel773911@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
