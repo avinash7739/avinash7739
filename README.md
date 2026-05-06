@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Umashankar12345&color=brightgreen&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/Umashankar12345?label=Followers&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=avinash7739&color=brightgreen&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/avinash7739?label=Followers&style=flat-square&color=blue" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" />
 </p>
 
