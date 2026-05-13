@@ -82,12 +82,12 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umashankar12345&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umashankar12345&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avinash7739&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash7739&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Umashankar12345&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=avinash7739&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 ---
@@ -95,13 +95,12 @@
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umashankar12345&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=avinash7739&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects:
-https://github.com/Umashankar12345/studentmangement
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
 | 🏥 [DoctorAppoinment2.0](https://github.com/Umashankar12345/DoctorAppoinment2.0) | Online doctor appointment booking with slot management | JS, Node.js | 🔗 Soon |
@@ -114,9 +113,8 @@ https://github.com/Umashankar12345/studentmangement
 
 ---
 ## 📈 Contribution Graph:
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umashankar12345&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash7739&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
