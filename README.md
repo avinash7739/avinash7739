@@ -32,7 +32,7 @@
   <a href="www.linkedin.com/in/avinash-patel-4487b5252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Umashankar9572/" target="_blank">
+  <a href="https://leetcode.com/u/_avinash_123/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="mailto:avinashpatel773911@gmail.com" target="_blank">
