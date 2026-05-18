@@ -98,18 +98,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=avinash7739&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
----
 
-## 🚀 Featured Projects:
-| Project | Description | Tech | Live |
-|--------|-------------|------|------|
-| 🏥 [DoctorAppoinment2.0](https://github.com/Umashankar12345/DoctorAppoinment2.0) | Online doctor appointment booking with slot management | JS, Node.js | 🔗 Soon |
-| 🗺️ [Smart-Road-Trip](https://github.com/Umashankar12345/Smart-Road-Trip-plain) | Calculates distance & travel time using Maps API | JavaScript | [🔗](https://smart-road-trip-plain-frontend.vercel.app/) |
-| 🎬 [LiveMovie](https://github.com/Umashankar12345/livemovie) | Online movie ticket booking system | JavaScript | 🔗 Soon |
-| 🌾 [FarmeSupport](https://github.com/Umashankar12345/Farmer-Support) | Platform to help farmers access support & resources | JavaScript | [🔗](https://farmer-support-beta.vercel.app/) |
-[voice-AI-Task-Manager](https://github.com/Umashankar12345/Voice-AI-Task-Manage) | Platform to help farmers access support & resources | JavaScript | 🔗 Soon |
-
-[studentMangemetnt](https://github.com/Umashankar12345/studentmangement) | Platform to help farmers access support & resources | JavaScript | 🔗 Soon |
 
 ---
 ## 📈 Contribution Graph:
